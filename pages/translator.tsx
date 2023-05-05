@@ -8,6 +8,8 @@ import Footer from "../components/Footer";
 import Github from "../components/GitHub";
 import Header from "../components/Header";
 import LoadingDots from "../components/LoadingDots";
+import FuturePedia from "../components/FuturePedia";
+import FAQ from "../components/FAQ";
 
 const Translator: NextPage = () => {
   const [loading, setLoading] = useState(false);
@@ -200,6 +202,8 @@ Your translation without hashtags:`;
           )}
         </div>
       </main>
+      <FuturePedia />
+      <FAQ />
       <Footer />
     </div>
     </div>
