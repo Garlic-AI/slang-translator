@@ -80,7 +80,7 @@ Your translation without hashtags:`;
       // background: "linear-gradient(90deg, #00c9ff, #92fe9d)",
       // retro yellow gradient
       // background: "linear-gradient(90deg, #f6d365, #fda085)",
-      background: "linear-gradient(to right, #d3cce3, #e9e4f0);",
+      background: "linear-gradient(to right, #d3cce3, #e9e4f0)",
     }}>
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
